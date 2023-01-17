@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Anna",
+        "age": 18,
+        "email": "anna99@gmail.com",
+        "school": "maltas vidusskola",
+        "car": {
+            "year": "2020",
+            "color": "sarkans",
+            "marka": "audi",
+            "dz_tilp": "2.0"
+        }
+    },
+    {
+        "name": "Oskars",
+        "age": 19,
+        "email": "oskars88@gmail.com",
+        "school": "rezeknes vidusskola",
+        "car": {
+            "year": "2021",
+            "color": "peleks",
+            "marka": "bmw",
+            "dz_tilp": "1.9"
+        }
+    }
+]
